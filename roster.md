@@ -8,3 +8,4 @@
 - [Raeda Baird - A3](https://editor.p5js.org/cherryreaper/sketches/n6rLP-xm2)  
 - [Mary Braen - A3](https://editor.p5js.org/mebraen/full/Se_PR0irk)
 - [Kathleen Morrissey] (https://github.com/Kmorrissey1/Concentric-Harmony)
+- [Xingyi Liu](https://github.com/woodberrysauce/woodberrysauce-IMGD5010-w3_time_Xingyi-Liu?tab=readme-ov-file)
